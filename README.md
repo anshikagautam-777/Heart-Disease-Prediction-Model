@@ -1,8 +1,6 @@
-Heart Disease Prediction Model
+### Heart Disease Prediction Model
 ## Overview
-
 This project focuses on developing a predictive model to classify whether a patient is likely to have heart disease based on various medical attributes. Heart disease is a critical health concern globally, and early detection plays a crucial role in effective treatment and prevention. Leveraging machine learning techniques, this project aims to analyze historical medical data and predict the likelihood of heart disease in patients.
-
 ## Dataset
 
 The dataset used in this project is sourced from '/content/heart.csv' and contains various attributes related to heart health. Here are some key details about the dataset:
